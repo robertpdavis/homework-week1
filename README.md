@@ -11,4 +11,4 @@ Left code better than I found it.
 Site is currently hosted on Github pages at: https://robertpdavis.github.io/homework-week1/ 
 
 Screenshot
-![Webpage screenshot](https://github.com/robertpdavis/homework-week1/screenshot.png "Screenshot of webpage")
+![Webpage screenshot](https://github.com/robertpdavis/homework-week1/blob/main/screenshot.png "Screenshot of webpage")
