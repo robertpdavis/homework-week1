@@ -1,5 +1,6 @@
 # homework-week1
-Refactoring of the Horiseon website:
+Refactoring of the Horiseon website
+
 * Improved accessibility through additional html tag semantics
 * Improved index.html code layout for better readabilty
 * Added addtiional comments in index.html and style.css to improve code understanding
@@ -7,5 +8,7 @@ Refactoring of the Horiseon website:
 
 Left code better than I found it.
 
-Site is currently hosted on Github pages
+Site is currently hosted on Github pages at: https://robertpdavis.github.io/homework-week1/ 
 
+Screenshot
+![Webpage screenshot](https://github.com/robertpdavis/homework-week1/screenshot.png "Screenshot of webpage")
