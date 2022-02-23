@@ -8,11 +8,11 @@ Refactoring of the Horiseon website
 
 Left code better than I found it.
 
-Files Rafctored
+Files Refactored
 index.html
 assets/css/style.css
   
-Site is currently hosted on Github pages at: https://robertpdavis.github.io/homework-week1/ 
+Site is currently hosted on Github pages at: https://robertpdavis.github.io/horiseon-refactor/ 
 
 Screenshot
-![Webpage screenshot](https://github.com/robertpdavis/homework-week1/blob/main/screenshot.png "Screenshot of webpage")
+![Webpage screenshot](https://github.com/robertpdavis/horiseon-refactor/blob/main/screenshot.png "Screenshot of webpage")
