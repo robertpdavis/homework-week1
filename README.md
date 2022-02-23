@@ -1,4 +1,4 @@
-# homework-week1
+# horiseon-refactor
 Refactoring of the Horiseon website
 
 * Improved accessibility through additional html tag semantics
@@ -8,6 +8,10 @@ Refactoring of the Horiseon website
 
 Left code better than I found it.
 
+Files Rafctored
+index.html
+assets/css/atyle.css
+  
 Site is currently hosted on Github pages at: https://robertpdavis.github.io/homework-week1/ 
 
 Screenshot
