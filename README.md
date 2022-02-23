@@ -10,7 +10,7 @@ Left code better than I found it.
 
 Files Rafctored
 index.html
-assets/css/atyle.css
+assets/css/style.css
   
 Site is currently hosted on Github pages at: https://robertpdavis.github.io/homework-week1/ 
 
